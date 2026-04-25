@@ -1,0 +1,21 @@
+{
+    "openai_api_key": "YOUR_OPENAI_API_KEY",
+    "anthropic_api_key": "YOUR_ANTHROPIC_API_KEY",
+    "google_api_key": "YOUR_GOOGLE_API_KEY",
+    "ai_provider": "OpenAI",
+    "company_name": "회사명을 입력하세요",
+    "contact_name": "담당자명을 입력하세요",
+    "product_description": "제품이나 서비스에 대한 상세 설명을 입력하세요",
+    "notion_api_key": "YOUR_NOTION_API_KEY",
+    "notion_database_id": "YOUR_NOTION_DATABASE_ID",
+    "stats": {
+        "leads": 0,
+        "inquiries": 0,
+        "notion_syncs": 0
+    },
+    "token_usage": {
+        "OpenAI": 0,
+        "Anthropic": 0,
+        "Gemini": 0
+    }
+}

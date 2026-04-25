@@ -1,0 +1,9 @@
+customtkinter
+openai
+anthropic
+google-generativeai
+pyperclip
+pdfplumber
+pandas
+openpyxl
+requests

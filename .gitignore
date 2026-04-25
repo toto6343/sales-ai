@@ -1,0 +1,19 @@
+# API Keys and Settings
+settings.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Build and Distribution
+build/
+dist/
+# *.spec  <-- 이 줄을 삭제하거나 주석 처리하세요.
+
+# IDEs
+.vscode/
+.idea/
